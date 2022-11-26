@@ -31,4 +31,4 @@ One great example of data that need to be in almost the entire application is in
   - Update
   - Deletion
 
-If you want to know more about that strategy working in an application you can check my video about using this pattern in my app Going: [Hook and Pattern in Going App](https://www.youtube.com/watch?v=PBlAwejJQls)
+If you want to know more about that strategy working in an application you can check my video about using this pattern in my app Going: [Hook and Provider in Going App](https://www.youtube.com/watch?v=PBlAwejJQls)
