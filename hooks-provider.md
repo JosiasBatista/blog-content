@@ -5,7 +5,7 @@ date: '2022-11-26'
 
 ### Patterns
 
-First of all, let's understand what **Design Pattern** means in development enviroments. According to the [Refactoring Guru](https://refactoring.guru/):
+First of all, let's understand what **Design Pattern** means in the development context. According to the [Refactoring Guru](https://refactoring.guru/):
 > Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.``
 
 With that in mind, the **Provider Patter** is a solution to organize and facilitate the distribuition of data among many (and in some cases all) components in an application.
