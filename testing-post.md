@@ -5,4 +5,4 @@ date: '2022-11-26'
 
 ### Testing Post
 
-Updating Test to check for revalidating
+Updating Test to check for revalidating for blog posts
